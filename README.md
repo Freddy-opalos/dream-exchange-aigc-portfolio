@@ -4,7 +4,7 @@ AI视频与漫剧方向的个人求职作品展示。基于赛事限定故事梗
 
 ## 完整预告片
 
-[播放完整预告片（1分44秒）](https://cdn.jsdelivr.net/gh/Freddy-opalos/dream-exchange-aigc-portfolio@main/demo/full-trailer.mp4) · [下载 MP4](https://raw.githubusercontent.com/Freddy-opalos/dream-exchange-aigc-portfolio/main/demo/full-trailer.mp4)
+[播放完整预告片（1分44秒）](https://freddy-opalos.github.io/dream-exchange-aigc-portfolio/) · [下载 MP4](https://raw.githubusercontent.com/Freddy-opalos/dream-exchange-aigc-portfolio/main/demo/full-trailer.mp4)
 
 原片为 1080p、30 帧/秒。此处提供 720p 投递版，保留完整时长及音轨。
 
@@ -36,3 +36,4 @@ AI视频与漫剧方向的个人求职作品展示。基于赛事限定故事梗
 提示词与结果取舍示例见 [制作说明](docs/process.md)。现有设定图与视频来自不同探索阶段，不承诺所有候选素材均已完成跨镜风格统一。
 
 故事概念来自赛事限定梗概；展示内容不声明获奖、商业交付或独立原创故事。素材仅作个人求职展示，第三方素材及工具相关权利归其权利人。
+
