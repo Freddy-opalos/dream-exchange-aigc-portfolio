@@ -1,8 +1,14 @@
 # 《梦境交易所》AIGC创作实践
 
-AI视频与漫剧方向的个人求职作品展示。基于赛事限定故事梗概，借助大模型拓展剧本与视觉方案，个人推进提示词调整、生成素材筛选与镜头尝试。目标片花90至120秒，最终叙事成片仍在制作中。
+AI视频与漫剧方向的个人求职作品展示。基于赛事限定故事梗概，借助大模型拓展剧本与视觉方案，个人推进提示词调整、生成素材筛选与镜头尝试。已完成 1 分 44 秒的《梦境交易所》预告片，配有中英双语字幕。
 
-## 先看30秒视频
+## 完整预告片
+
+[播放完整预告片（1分44秒）](https://cdn.jsdelivr.net/gh/Freddy-opalos/dream-exchange-aigc-portfolio@main/demo/full-trailer.mp4) · [下载 MP4](https://raw.githubusercontent.com/Freddy-opalos/dream-exchange-aigc-portfolio/main/demo/full-trailer.mp4)
+
+原片为 1080p、30 帧/秒。此处提供 720p 投递版，保留完整时长及音轨。
+
+## 早期30秒素材展示
 
 **[百度网盘观看／下载《梦境交易所》30秒素材展示](https://pan.baidu.com/s/1MVeq3yMEtL9qiM9T-nAeDQ?pwd=7ri5)**
 
